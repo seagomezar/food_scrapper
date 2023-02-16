@@ -61,6 +61,54 @@ describe('example to-do app', () => {
 
         cy.get("p.NotasItem-p--completed").should('have.length', 3);
       })
+      it('Si creo tres notas y las termino deben aparecer eliminada', ()=>{
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
 
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
+
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
+
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+
+        cy.get("p.NotasItem-p--completed").should('have.length', 0);
+      })
+
+      it('Si creo una notas la completo debe aparecer subrayadas luego no debe aparecer', ()=>{
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-check.false").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+
+        cy.get("p.NotasItem-p--completed").should('have.length', 0);
+      })
+
+      it('Si creo una notas la completo debe aparecer subrayadas luego no debe aparecer', ()=>{
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-check.false").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+
+        cy.get("p.NotasItem-p--completed").should('have.length', 0);
+      })
+
+      it('Si creo una notas la completo debe aparecer subrayadas luego no debe aparecer', ()=>{
+        cy.get("#main-content > button").click();
+        cy.get("#modal > div > form > textarea").type("Hola checho 1");
+        cy.get("#modal > div > form > div > button.NotasForm-button.NotasForm-button--add").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-check.false").click();
+        cy.get("#main-content > section > li:nth-child(1) > span.Icon.Icon-delete").click();
+
+        cy.get("p.NotasItem-p--completed").should('have.length', 0);
+      })
   })
   
