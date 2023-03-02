@@ -1,0 +1,674 @@
+[
+  {
+    "id": 2465,
+    "nombre": "Vino tinto",
+    "name": "Red wine",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "9.82",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "294 (71)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "0",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "0.23",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "0.3",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "1",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.09",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.02",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.005",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.01",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.02",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "7.6",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "93",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "11",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "4",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "14",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "0.2",
+        "unit": "ug"
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "nombre": "Vodka",
+    "name": "Vodka",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "33.5",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "972 (233)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "traza",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "0",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "0",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "traza",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "traza",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "1",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "5",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "0",
+        "unit": "ug"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "nombre": "Volador, crudo",
+    "name": "Flying fish, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2466,
+    "nombre": "Whisky",
+    "name": "Whisky",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2520,
+    "nombre": "Yogur griego",
+    "name": "Strained yogurt",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2521,
+    "nombre": "Yogur líquido, \"tipo actimel",
+    "name": "Yoghurt liquid, \"type actimel",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 950,
+    "nombre": "Yogur líquido, aromatizado sabor s/e",
+    "name": "Drinking yogurt, flavoured n/e",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 1160,
+    "nombre": "Yogur líquido, con frutas s/e",
+    "name": "Yogurt, liquid, whole milk, with fruits",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 952,
+    "nombre": "Yogur líquido, entero, con cereales",
+    "name": "Liquid yogurt, whole milk, with cereals",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 1133,
+    "nombre": "Yogur líquido, natural, azucarado",
+    "name": "Drinking yogurt, plain, sweetened",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  }
+]

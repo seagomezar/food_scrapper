@@ -1,0 +1,1812 @@
+[
+  {
+    "id": 797,
+    "nombre": "Bacalao, salado, remojado, crudo",
+    "name": "Cod, salted, steeped, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "457 (110)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "0.4",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "26",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "0",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.2",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "0.1",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "50",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "15",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "7",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "5.5",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.05",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "5",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.22",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "28",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.2",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "21",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "3120",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "157",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "60",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "27",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "0.4",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "nombre": "Bacón, ahumado, a la parrilla",
+    "name": "Bacon, smoked, grilled",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1216 (292)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "22.1",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "23.4",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "0",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "9.3",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "2.9",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "8.3",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "80",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.6",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.07",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "2",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "7",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.16",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "1",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.46",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "traza",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "7",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.7",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "330",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "21",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "1760",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "190",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "7",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "12",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "2.2",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 682,
+    "nombre": "Bacon, crudo, con grasa separable",
+    "name": "Bacon, raw, with separable fat",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "2277 (546)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "57.5",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "8.7",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "0.09",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "26.33",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "6.75",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "21.26",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "0.01",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.01",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.23",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "2",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "1.8",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.11",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.36",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.8",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.3",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "13",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.2",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "160",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "12",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "680",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "108",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "1.2",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "25",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.8",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2369,
+    "nombre": "Bambú, crudo",
+    "name": "Bamboo, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "144 (34)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "0.3",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "2.6",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "2.2",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "5.2",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "0.007",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.134",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "0.069",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "6",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "7",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.6",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.07",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.15",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.24",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "4",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "13",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.5",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "533",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "3",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "4",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "59",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "0.8",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.1",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "nombre": "Barra chocolate, tipo \"bounty",
+    "name": "Chocolate bar, type \"bounty",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "2048 (492)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "26.6",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "4.6",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "3.5",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "58",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasas",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "ácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "8.7",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "1",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "16.5",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "3",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.9",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.07",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácido graso 20:5 (ácido eicosapentaenóico)",
+        "value": "0",
+        "unit": "g"
+      },
+      {
+        "name": "Vitaminas",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "60",
+        "unit": "ug"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "Vitamina D",
+        "value": "0.01",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.08",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "7",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.3",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.11",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.01",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "1.2",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      }
+    ],
+    "minerals": [
+      {
+        "name": "calcio",
+        "value": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.5",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "316",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "44.4",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 770,
+    "nombre": "Barra de chocolate, tipo \"Kit-kat",
+    "name": "Chocolate bar, type \"kit kat",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "2087 (501)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "24.477",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "6.5",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "1.3",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "63",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "11.2",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.6",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "11.6",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "17",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "34.1667",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.08",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "9",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.4",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.26",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.07",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.54",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.06",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "1",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "106",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.2",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "200",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "52",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "125",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "153",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "21.1",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "5",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.1",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 769,
+    "nombre": "Barra de chocolate, tipo \"Mars",
+    "name": "Chocolate bar, type \"mars",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1899 (456)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "18.4833",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "5.6",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0.6",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "65.9",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "7",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.67",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "10",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "20",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "6.6667",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.1",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "1.5",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "9",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.3",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.2",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.05",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.26",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.08",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "traza",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "145",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.3",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "240",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "40",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "158",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "150",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "21.1",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "1.6",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.1",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2662,
+    "nombre": "Barrita cereales con chocolate",
+    "name": "Cereal bar, with chocolate",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1653 (397)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "7",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "9",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "1.5",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "73",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "3.8",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "1.1",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "3.5",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "13.5",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "165",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "15",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "1.3",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "1.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.8",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "1.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "65.3",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "11",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "210",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "51.6",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "160",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "172.9",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "14.6",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "6.3",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.6",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2663,
+    "nombre": "Barrita cereales con frutas",
+    "name": "Cereal bar, with fruit",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1647 (395)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "5",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "8",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "1.5",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "78",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "2.3",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "1.2",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "2",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "2.5",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "165",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "15",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "1.3",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "1.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.8",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "1.6",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "1.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "14",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "11",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "186.9",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "48.9",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "200",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "134.8",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "3.5",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "6.3",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.4",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 767,
+    "nombre": "Barrita cereales maíz y trigo",
+    "name": "Cereal bar, with corn and wheat",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1798 (431)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "13.8",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "7.4",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "1.1",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "68.3",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "traza",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "10.1",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "2.94",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "15",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "9.091",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.773",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.682",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.909",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "31",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "2.56",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "143",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "46",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "500",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "136",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "3.7",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "24.9",
+        "unit": "ug"
+      },
+      {
+        "name": "zinc (cinc)",
+        "value": "1.78",
+        "unit": "mg"
+      }
+    ]
+  }
+]

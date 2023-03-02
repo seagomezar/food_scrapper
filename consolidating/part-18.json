@@ -1,0 +1,1218 @@
+[
+  {
+    "id": 2697,
+    "nombre": "Carne de cerdo de capa blanca, chuleta, parte magra, cruda",
+    "name": "Pork meat, chop, lean, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "574 (138)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "5",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "22.9",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "71.03",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "2.568",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.5635",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "1.8415",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.006",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.071",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "1.175",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.557",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "2.338",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "68.5",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.527",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.037",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "3.8",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "6.1",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.14",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.42",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.3",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.34",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "13",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.89",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "208",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "31",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "40",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "197",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2696,
+    "nombre": "Carne de cerdo de capa blanca, chuleta, partes grasa y magra, cruda",
+    "name": "Pork meat, chop, separable lean and fat, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "665 (160)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "7.43",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "22.95",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "70",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "3.585",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "1.076",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "2.716",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.012",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.09",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "1.687",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.884",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "3.33",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "70.65",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "1.031",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.045",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "3.5",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "5.98",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.13",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.4",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.2",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.65",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "16.05",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.95",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "292.5",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "29.15",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "48.4",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "179.85",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2699,
+    "nombre": "Carne de cerdo de capa blanca, jamón, parte magra, crudo",
+    "name": "Pork meat, ham, lean, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "528 (127)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "2.95",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "24.65",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "71.26",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "0.672",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.16",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "0.556",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.005",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.022",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "0.357",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.172",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "0.621",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "62.5",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.153",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.007",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "3.15",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "7.5",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.19",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.34",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.15",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.54",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "12.5",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.79",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "484.5",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "39.5",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "46.5",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "171.5",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2698,
+    "nombre": "Carne de cerdo de capa blanca, jamón, partes grasa y magra, crudo",
+    "name": "Pork meat, ham, separable lean and fat, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "536 (129)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "3.9",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "23.07",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "71.89",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "1.596",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.347",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "1.1285",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.014",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.045",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "0.7275",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.3355",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "1.4865",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "67.43",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.326",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.021",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "2.7",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "6.8",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.21",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.52",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.15",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.55",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "16.3",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.35",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "445.33",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "35",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "45.4",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "209.43",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2695,
+    "nombre": "Carne de cerdo de capa blanca, lomo, parte magra, crudo",
+    "name": "Pork meat, loin, lean, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "516 (124)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "2.5",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "24.9",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "71.47",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "1.253",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.253",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "0.979",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.017",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.039",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "0.618",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.305",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "1.162",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "61",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.24",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.013",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "4.05",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "7.1",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.15",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.48",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.2",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.65",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "14.5",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.91",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "490",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "29",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "41",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "176.5",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2694,
+    "nombre": "Carne de cerdo de capa blanca, lomo, partes grasa y magra, crudo",
+    "name": "Pork meat, loin, separable lean and fat, raw",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "energía, total",
+        "value": "590 (142)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "totalEnergy": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "4.57",
+        "unit": "g"
+      },
+      "proteinWhole": {
+        "name": "proteina, total",
+        "value": "24.77",
+        "unit": "g"
+      },
+      "water": {
+        "name": "agua (humedad)",
+        "value": "71.19",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      "carbohydrates": {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "2.155",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.408",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "1.761",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)",
+        "value": "0.015",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 14:0 (ácido mirístico)",
+        "value": "0.064",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 16:0 (ácido palmítico)",
+        "value": "1.0855",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:0 (ácido esteárico)",
+        "value": "0.5855",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "2.0275",
+        "unit": "g"
+      },
+      {
+        "name": "colesterol",
+        "value": "68.23",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2",
+        "value": "0.3825",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 18:3",
+        "value": "0.0255",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "--",
+        "unit": "--"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "3.05",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina DViamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "--",
+        "unit": "--"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "folato, total",
+        "value": "traza",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "6.9",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.15",
+        "unit": "mg"
+      },
+      {
+        "name": "tiamina",
+        "value": "0.44",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "0.25",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.53",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)Minerales",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "calcio",
+        "value": "9.53",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "1.55",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "482.43",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "magnesio",
+        "value": "35.43",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "42.8",
+        "unit": "mg"
+      },
+      {
+        "name": "fósforo",
+        "value": "213.9",
+        "unit": "mg"
+      }
+    ]
+  },
+  {
+    "id": 2706,
+    "nombre": "Carne de vacuno, cadera, partes magra y grasa, crudo",
+    "name": "Veal, hip, separable lean and fat, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2710,
+    "nombre": "Carne de vacuno, carrillera, partes magra y grasa, crudo",
+    "name": "Veal, cheeks, separable lean and fat, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2704,
+    "nombre": "Carne de vacuno, costillar, partes magra y grasa, crudo",
+    "name": "Veal, ribs, separable lean and fat, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2702,
+    "nombre": "Carne de vacuno, lomo, partes magra y grasa, crudo",
+    "name": "Veal, loin, separable lean and fat, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "id": 2516,
+    "nombre": "Queso tierno, genérico",
+    "name": "Fresh cheese",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1382 (332)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "25.4",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "26",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "traza",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "7.28",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "0.73",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "13.68",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "70",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "218",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.18",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.6",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "20",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "5.2",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.3",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.02",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "1.4",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.2",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "0",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "470",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.9",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "100",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "28",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "670",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "520",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "34",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "1.6",
+        "unit": "ug"
+      }
+    ]
+  },
+  {
+    "id": 720,
+    "nombre": "Queso torta del casar",
+    "name": "Cheese, \"torta del casar\" type",
+    "information": "Información de composición (por 100 g de porción comestible)",
+    "proximals": {
+      "alcoholEtanol": {
+        "name": "alcohol (etanol)",
+        "value": "0",
+        "unit": "g"
+      },
+      "totalEnergy": {
+        "name": "energía, total",
+        "value": "1508 (362)\n\t\t\t\t\t\t\t",
+        "unit": "kJ (kcal)"
+      },
+      "proteinWhole": {
+        "name": "grasa, total (lipidos totales)",
+        "value": "32.38",
+        "unit": "g"
+      },
+      "water": {
+        "name": "proteina, total",
+        "value": "18.25",
+        "unit": "g"
+      }
+    },
+    "carbohydrates": {
+      "fiberTotal": {
+        "name": "fibra, dietetica total",
+        "value": "0",
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "name": "carbohidratos",
+        "value": "traza",
+        "unit": "g"
+      }
+    },
+    "fats": [
+      {
+        "name": "Grasasácido graso 22:6 n-3 (ácido docosahexaenóico)",
+        "value": "-",
+        "unit": "-"
+      },
+      {
+        "name": "ácidos grasos, monoinsaturados totales",
+        "value": "7.53",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos, poliinsaturados totales",
+        "value": "1.5",
+        "unit": "g"
+      },
+      {
+        "name": "ácidos grasos saturados totales",
+        "value": "21.8",
+        "unit": "g"
+      },
+      {
+        "name": "ácido graso 12:0 (láurico)ácido graso 14:0 (ácido mirístico)ácido graso 16:0 (ácido palmítico)ácido graso 18:0 (ácido esteárico)ácido graso 18:1 n-9 cis (ácido oléico)",
+        "value": "-----",
+        "unit": "-----"
+      },
+      {
+        "name": "colesterol",
+        "value": "90",
+        "unit": "mg"
+      },
+      {
+        "name": "ácido graso 18:2ácido graso 18:3ácido graso 20:4 n-6  (ácido araquidónico)ácido graso 20:5 (ácido eicosapentaenóico)Vitaminas",
+        "value": "----",
+        "unit": "----"
+      },
+      {
+        "name": "Vitamina A equivalentes de retinol de actividades de retinos y carotenoides",
+        "value": "340",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina D",
+        "value": "0.25",
+        "unit": "ug"
+      },
+      {
+        "name": "Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E",
+        "value": "0.62",
+        "unit": "mg"
+      },
+      {
+        "name": "folato, total",
+        "value": "50",
+        "unit": "ug"
+      },
+      {
+        "name": "equivalentes de niacina, totales",
+        "value": "0.1",
+        "unit": "mg"
+      },
+      {
+        "name": "riboflavina",
+        "value": "0.3",
+        "unit": "mg"
+      }
+    ],
+    "vitamins": [
+      {
+        "name": "tiamina",
+        "value": "0.03",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina B-12",
+        "value": "1.5",
+        "unit": "ug"
+      },
+      {
+        "name": "Vitamina B-6, Total",
+        "value": "0.1",
+        "unit": "mg"
+      },
+      {
+        "name": "Vitamina C (ácido ascórbico)",
+        "value": "traza",
+        "unit": "mg"
+      },
+      {
+        "name": "Minerales",
+        "value": "",
+        "unit": ""
+      },
+      {
+        "name": "calcio",
+        "value": "525.59",
+        "unit": "mg"
+      },
+      {
+        "name": "hierro, total",
+        "value": "0.53",
+        "unit": "mg"
+      },
+      {
+        "name": "potasio",
+        "value": "112.22",
+        "unit": "mg"
+      },
+      {
+        "name": "magnesio",
+        "value": "33.14",
+        "unit": "mg"
+      },
+      {
+        "name": "sodio",
+        "value": "538.19",
+        "unit": "mg"
+      }
+    ],
+    "minerals": [
+      {
+        "name": "fósforo",
+        "value": "388.56",
+        "unit": "mg"
+      },
+      {
+        "name": "ioduro",
+        "value": "2",
+        "unit": "ug"
+      },
+      {
+        "name": "selenio, total",
+        "value": "1.6",
+        "unit": "ug"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "nombre": "Queso tupí",
+    "name": "Cheese, \"tupí\" type",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 719,
+    "nombre": "Queso Zamorano",
+    "name": "Cheese, \"zamorano\" type",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 1083,
+    "nombre": "Quinoa, cruda",
+    "name": "Quinoa, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2415,
+    "nombre": "Rábano",
+    "name": "Radish",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2301,
+    "nombre": "Rabo de toro",
+    "name": "Oxtail",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 838,
+    "nombre": "Rape, a la parrilla",
+    "name": "Monkfish, grilled",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2623,
+    "nombre": "Rape, crudo",
+    "name": "Monkfish, raw",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 2624,
+    "nombre": "Rape, plancha",
+    "name": "Monkfish, griddle",
+    "information": "",
+    "proximals": {},
+    "carbohydrates": {},
+    "fats": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "vitamins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "minerals": [
+      {},
+      {},
+      {}
+    ]
+  }
+]

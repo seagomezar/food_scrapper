@@ -1,0 +1,102 @@
+example to-do app
+    ✓ Part-0 (37767ms)
+    ✓ Part-1 (34587ms)
+    ✓ Part-2 (33112ms)
+    ✓ Part-3 (34097ms)
+    ✓ Part-4 (33370ms)
+    ✓ Part-5 (35039ms)
+    ✓ Part-6 (34349ms)
+    ✓ Part-7 (34759ms)
+    ✓ Part-8 (33958ms)
+    ✓ Part-9 (36424ms)
+    ✓ Part-10 (35327ms)
+    ✓ Part-11 (32387ms)
+    1) Part-12 
+    ✓ Part-13 (37313ms)
+    ✓ Part-14 (38237ms)
+    ✓ Part-15 (36244ms)
+    2) Part-16
+    ✓ Part-17 (42731ms)
+    3) Part-18
+    4) Part-19
+    ✓ Part-20 (43422ms)
+    ✓ Part-21 (48109ms)
+    ✓ Part-22 (53803ms)
+    ✓ Part-23 (44922ms)
+    ✓ Part-24 (43934ms)
+    ✓ Part-25 (44378ms)
+    ✓ Part-26 (45790ms)
+    ✓ Part-27 (44604ms)
+   ✓ Part-28 (39831ms)
+    ✓ Part-29 (37072ms)
+    ✓ Part-30 (35749ms)
+    ✓ Part-31 (35502ms)
+    ✓ Part-32 (38686ms)
+    ✓ Part-33 (35962ms)
+    ✓ Part-34 (35202ms)
+    ✓ Part-35 (36873ms)
+    ✓ Part-36 (35590ms)
+    ✓ Part-37 (35637ms)
+    ✓ Part-38 (35226ms)
+    ✓ Part-39 (35723ms)
+    ✓ Part-40 (35932ms)
+    ✓ Part-41 (37428ms)
+    1) Part-42
+    2) Part-43
+    3) Part-44
+    ✓ Part-45 (43092ms)
+    ✓ Part-46 (41410ms)
+    ✓ Part-47 (40886ms)
+    ✓ Part-48 (40666ms)
+    ✓ Part-49 (41951ms)
+    ✓ Part-50 (43288ms)
+    4) Part-51
+    ✓ Part-52 (48714ms)
+    ✓ Part-53 (44501ms)
+    5) Part-54
+    6) Part-55
+    ✓ Part-56 (55851ms)
+    7) Part-57
+    8) Part-58
+    ✓ Part-59 (53360ms)
+    ✓ Part-60 (60390ms)
+    ✓ Part-61 (56566ms)
+    ✓ Part-62 (57439ms)
+    ✓ Part-63 (57382ms)
+    ✓ Part-64 (54255ms)
+    ✓ Part-65 (56983ms)
+    ✓ Part-66 (33480ms)
+    ✓ Part-67 (32582ms)
+    ✓ Part-68 (33137ms)
+    1) Part-69
+    2) Part-70
+    3) Part-71
+    4) Part-72
+    5) Part-73
+    6) Part-74
+    7) Part-75
+    8) Part-76
+    9) Part-77
+    ✓ Part-78 (49839ms)
+    ✓ Part-79 (50327ms)
+    10) Part-80
+    ✓ Part-81 (48525ms)
+    ✓ Part-82 (53101ms)
+    11) Part-83
+    ✓ Part-84 (57115ms)
+    Part-85 (33419ms)
+    ✓ Part-86 (31377ms)
+    ✓ Part-87 (32109ms)
+    1) Part-88
+    2) Part-89
+    3) Part-90
+    4) Part-91
+    ✓ Part-92 (44992ms)
+    ✓ Part-93 (46873ms)
+    ✓ Part-94 
+    ✓ Part-95 (36091ms)
+    1) Part-96
+    2) Part-97
+    3) Part-98
+    4) Part-99
+    []
